@@ -16,5 +16,5 @@ public class HomeController {
         logger.warn("This is a warn message");
         logger.error("This is an error message");
         return "index";
-    }
+    } // hello
 }
